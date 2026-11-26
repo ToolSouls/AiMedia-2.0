@@ -74,7 +74,7 @@
 
 ## 去 AI 味、降低 AI 率与腾讯朱雀实测
 
-万稿汇的「去 AI 味」接入与 **[toolsoul-humanize](https://github.com/ToolSouls/toolsoul-humanize.git)** 相同的器灵改文服务。欢迎拿同一篇原文，与其他改写工具直接对比。
+万稿汇的「去 AI 味」接入与 **[toolsoul-humanize](https://github.com/ToolSouls/toolsoul-humanize)** 相同的器灵改文服务。欢迎拿同一篇原文，与其他改写工具直接对比。
 
 很多人把这类需求称为“去 AI 味”“降低 AI 痕迹”“降 AI 率”或“过朱雀”。万稿汇会在改文后提供预览，用户确认后再采用；自动托管也可以按任务开启“发布前自动去 AI”。
 
@@ -82,7 +82,7 @@
 
 ### 公开实测案例
 
-同一篇文章，改前改后直接对比。以下为 [qiling-humanize 公开案例](https://github.com/qilingAI/qiling-humanize#腾讯朱雀实测)，两篇改文的检测结论均为 **「人工创作特征显著」**。
+同一篇文章，改前改后直接对比。以下为 [toolsoul-humanize 公开案例](https://github.com/ToolSouls/toolsoul-humanize#腾讯朱雀实测)，两篇改文的检测结论均为 **「人工创作特征显著」**。
 
 | 案例 | AI 特征：改前 → 改后 | 疑似 AI：改前 → 改后 | 人工特征：改前 → 改后 |
 | --- | --- | --- | --- |
@@ -95,9 +95,9 @@
 
 | 改写前 | 器灵改写后 |
 | :---: | :---: |
-| <a href="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/reading/before.png"><img src="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/reading/before.png" width="440" alt="重新认识阅读：改写前腾讯朱雀检测结果"></a> | <a href="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/reading/after.png"><img src="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/reading/after.png" width="440" alt="重新认识阅读：器灵改写后腾讯朱雀检测结果"></a> |
+| <a href="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/reading/before.png"><img src="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/reading/before.png" width="440" alt="重新认识阅读：改写前腾讯朱雀检测结果"></a> | <a href="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/reading/after.png"><img src="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/reading/after.png" width="440" alt="重新认识阅读：器灵改写后腾讯朱雀检测结果"></a> |
 
-[阅读原文](https://github.com/qilingAI/qiling-humanize/blob/main/examples/reading/before.md) · [阅读改文](https://github.com/qilingAI/qiling-humanize/blob/main/examples/reading/after.md)
+[阅读原文](https://github.com/ToolSouls/toolsoul-humanize/blob/main/examples/reading/before.md) · [阅读改文](https://github.com/ToolSouls/toolsoul-humanize/blob/main/examples/reading/after.md)
 
 #### 02 · 青少年媒介素养
 
@@ -105,9 +105,9 @@
 
 | 改写前 | 器灵改写后 |
 | :---: | :---: |
-| <a href="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/media-literacy/before.png"><img src="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/media-literacy/before.png" width="440" alt="青少年媒介素养：改写前腾讯朱雀检测结果"></a> | <a href="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/media-literacy/after.png"><img src="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/media-literacy/after.png" width="440" alt="青少年媒介素养：器灵改写后腾讯朱雀检测结果"></a> |
+| <a href="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/media-literacy/before.png"><img src="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/media-literacy/before.png" width="440" alt="青少年媒介素养：改写前腾讯朱雀检测结果"></a> | <a href="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/media-literacy/after.png"><img src="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/media-literacy/after.png" width="440" alt="青少年媒介素养：器灵改写后腾讯朱雀检测结果"></a> |
 
-[阅读原文](https://github.com/qilingAI/qiling-humanize/blob/main/examples/media-literacy/before.md) · [阅读改文](https://github.com/qilingAI/qiling-humanize/blob/main/examples/media-literacy/after.md)
+[阅读原文](https://github.com/ToolSouls/toolsoul-humanize/blob/main/examples/media-literacy/before.md) · [阅读改文](https://github.com/ToolSouls/toolsoul-humanize/blob/main/examples/media-literacy/after.md)
 
 <sub>截图与数据由器灵提供，截图中朱雀模型更新时间为 2026-07-21。案例效果随文本与检测工具而异。点击截图可查看大图，亦可前往 <a href="https://matrix.tencent.com/ai-detect/ai_gen">腾讯朱雀</a> 自行复测。</sub>
 
