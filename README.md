@@ -95,7 +95,7 @@
 
 | 改写前 | 器灵改写后 |
 | :---: | :---: |
-| <a href="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/reading/before.png"><img src="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/reading/before.png" width="440" alt="重新认识阅读：改写前腾讯朱雀检测结果"></a> | <a href="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/reading/after.png"><img src="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/reading/after.png" width="440" alt="重新认识阅读：器灵改写后腾讯朱雀检测结果"></a> |
+| <a href="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/reading/before.png"><img src="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/reading/before.png" width="440" alt="重新认识阅读：改写前腾讯朱雀检测结果"></a> | <a href="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/reading/after.png"><img src="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/reading/after.png" width="440" alt="重新认识阅读：器灵改写后腾讯朱雀检测结果"></a> |
 
 [阅读原文](https://github.com/ToolSouls/toolsoul-humanize/blob/main/examples/reading/before.md) · [阅读改文](https://github.com/ToolSouls/toolsoul-humanize/blob/main/examples/reading/after.md)
 
@@ -105,7 +105,7 @@
 
 | 改写前 | 器灵改写后 |
 | :---: | :---: |
-| <a href="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/media-literacy/before.png"><img src="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/media-literacy/before.png" width="440" alt="青少年媒介素养：改写前腾讯朱雀检测结果"></a> | <a href="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/media-literacy/after.png"><img src="https://raw.githubusercontent.com/qilingAI/qiling-humanize/main/examples/media-literacy/after.png" width="440" alt="青少年媒介素养：器灵改写后腾讯朱雀检测结果"></a> |
+| <a href="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/media-literacy/before.png"><img src="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/media-literacy/before.png" width="440" alt="青少年媒介素养：改写前腾讯朱雀检测结果"></a> | <a href="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/media-literacy/after.png"><img src="https://raw.githubusercontent.com/ToolSouls/toolsoul-humanize/main/examples/media-literacy/after.png" width="440" alt="青少年媒介素养：器灵改写后腾讯朱雀检测结果"></a> |
 
 [阅读原文](https://github.com/ToolSouls/toolsoul-humanize/blob/main/examples/media-literacy/before.md) · [阅读改文](https://github.com/ToolSouls/toolsoul-humanize/blob/main/examples/media-literacy/after.md)
 
