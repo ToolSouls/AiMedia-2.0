@@ -74,7 +74,7 @@
 
 ## 去 AI 味、降低 AI 率与腾讯朱雀实测
 
-万稿汇的「去 AI 味」接入与 **[qiling-humanize](https://github.com/qilingAI/qiling-humanize)** 相同的器灵改文服务。欢迎拿同一篇原文，与其他改写工具直接对比。
+万稿汇的「去 AI 味」接入与 **[toolsoul-humanize](https://github.com/ToolSouls/toolsoul-humanize.git)** 相同的器灵改文服务。欢迎拿同一篇原文，与其他改写工具直接对比。
 
 很多人把这类需求称为“去 AI 味”“降低 AI 痕迹”“降 AI 率”或“过朱雀”。万稿汇会在改文后提供预览，用户确认后再采用；自动托管也可以按任务开启“发布前自动去 AI”。
 
