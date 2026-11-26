@@ -12,7 +12,7 @@
 - **自动托管**：设置素材来源、写作 Skill、是否去 AI、排版方式、目标账号和运行时间，按计划完成创作与发布。
 - **Skill 扩展**：内置写作与公众号排版 Skill，也支持导入自定义 Skill ZIP，并自动检查官方 Skill 更新。
 
-[代码仓库](https://github.com/ToolSouls/AiMedia-2.0) · [下载软件](https://gitee.com/gongdnq/wangaohui/releases/latest) · [问题反馈](https://github.com/ToolSouls/AiMedia-2.0/issues) · [器灵官网](https://toolsoul.daniu7.cn/) · [ToolSouls 开源组织](https://github.com/ToolSouls)
+[代码仓库](https://github.com/ToolSouls/AiMedia-2.0) · [下载软件](https://gitee.com/gongdnq/ten-thousand-manuscripts-hub/releases#release-latest) · [问题反馈](https://github.com/ToolSouls/AiMedia-2.0/issues) · [器灵官网](https://toolsoul.daniu7.cn/) · [ToolSouls 开源组织](https://github.com/ToolSouls)
 
 ## 支持平台：微信公众号、百家号、头条号、小红书
 
@@ -29,7 +29,7 @@
 
 ## 下载
 
-前往 **[Gitee Releases 下载页面](https://gitee.com/gongdnq/wangaohui/releases/latest)**，打开对应版本的附件列表，下载 Windows 安装包：
+前往 **[Gitee Releases 下载页面](https://gitee.com/gongdnq/ten-thousand-manuscripts-hub/releases#release-latest)**，打开对应版本的附件列表，下载 Windows 安装包：
 
 | 平台 | 选择的安装包 |
 | --- | --- |
